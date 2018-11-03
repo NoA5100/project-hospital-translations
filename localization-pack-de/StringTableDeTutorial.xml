@@ -345,7 +345,7 @@
             <GameDBLocalizedString>      <LocID>CHALLENGE_LEVEL_INTRO</LocID>                       <Text>Hey Chef, und willkommen in unserem Herausforderungs-Szenario. Deine Aufgabe ist einfach. Heile {1}% Deiner Patienten, jeden Tag für 10 Tage. Mit einem Zuwachs von 5 stationären und 1 ambulanten Patienten pro Tag. Wenn Du einen Tag scheiterst, ist die Herausforderung beendet. Um Mitternacht wird kontrolliert ob Du erfolgreich warst. Frohes Heilen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHALLENGE_LEVEL_OUTRO</LocID>                       <Text>Gratulation, Du bist nun {1}.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHALLENGE_LEVEL_OUTRO_FAIL</LocID>                  <Text>Unglücklicherweise konntest Du nicht ausreichend Patienten behandeln. Du kannst es jederzeit nochmal versuchen.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CAMPAIGN_02_INSURANCE_BOOST</LocID>                 <Text>Du kannst Dein Einkommen erhöhen, in dem Du Zielvorgaben unserer freundlichen Krankenkasse erfüllst. Wenn Du alle erfüllt hast, schicken diese noch mehr Patienten. Damit sollte alles einfacher werden.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CAMPAIGN_02_INSURANCE_BOOST</LocID>                 <Text>Du kannst Dein Einkommen erhöhen, indem Du Zielvorgaben unserer freundlichen Krankenkasse erfüllst. Wenn Du alle erfüllt hast, schicken diese noch mehr Patienten. Damit sollte alles einfacher werden.</Text>  </GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>
